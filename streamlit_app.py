@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("--Halo..--")
 st.write("Tugas Informatika Vinza .")
-st.image("IMG-20250505-WA0000.jpg",width=500)
+st.image("IMG-20250604-WA0052.jpg",width=500)
 
 st.title("Aplikasi Sederhana")
 st.header("Aplikasi Mengecek Nilai Genap/Ganjil")
